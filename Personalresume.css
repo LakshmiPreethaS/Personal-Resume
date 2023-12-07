@@ -72,6 +72,9 @@ h2 {
 .right ul li {
 	line-height: 2;
 }
+.dic p{
+   text-align: center;
+}
 @media only screen and (min-width: 768px) and (max-width: 991px) {
 	.container {
 		width: 95%;
